@@ -2,7 +2,7 @@
 
 An E3D Titan toolhead for the Bitfab Core toolhead system. Focus on reliability and easy maintenance.
 
-[media]
+![](https://github.com/Bitfab-io/bfc-toolhead-e3d-titan/raw/master/media/first_prototype.jpg)
 
 ## Features
 
