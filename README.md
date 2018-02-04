@@ -11,9 +11,9 @@ An E3D Titan toolhead for the Bitfab Core toolhead system. Focus on reliability 
 	* Quick hotend change, 4-bolt change, quick connectors in every hotend wire.
 * **Quick toolhead change**. Two-bolt quick toolhead swap (excluding cable chain)
 * **Folded sheet aluminum construction**. Stiff and cheap.
-* **Cable chain** Cable chain holder (soon).
+* **Cable chain** Cable chain holder (work in progress).
 	* Cable chain can be detached independently for wire maintenance or in case of malfunction (both ends with wire connectors).
 	* Or cable chain can be swapped in conjunction with the complete Titan toolhead for full tool swap.
-* **Snowplow version**. For automated part ejection (soon) 
+* **Snowplow version**. For automated part ejection (work in progress) 
 * **Layer fan add-on** (soon)
 
