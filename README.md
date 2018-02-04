@@ -2,7 +2,8 @@
 
 An E3D Titan toolhead for the Bitfab Core toolhead system. Focus on reliability and easy maintenance.
 
-![](https://github.com/Bitfab-io/bfc-toolhead-e3d-titan/raw/master/media/first_prototype.jpg)
+![](https://raw.githubusercontent.com/Bitfab-io/bfc-toolhead-e3d-titan/cable-chain-plus-snowplow/media/e3d_titan_toolhead_snowplow_freecad.png)
+
 
 ## Features
 
